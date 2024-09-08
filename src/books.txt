@@ -1,0 +1,13 @@
+1,To Kill a Mockingbird,Harper Lee
+2,1984,George Orwell
+3,The Great Gatsby,F. Scott Fitzgerald
+11,The Last Devil to Die,Richard Osman
+12,The Wishing Game,Meg Shaffer
+13,The Last White Man,Mohsin Hamid
+14,The Secret Book of Flora Lea,Patti Callahan Henry
+15,Hello Beautiful,Ann Napolitano
+16,The Heaven & Earth Grocery Store,James McBride
+17,Fourth Wing,Rebecca Yarros
+18,Happy Place,Emily Henry
+19,The Summer I Turned Pretty,Jenny Han
+20,Romantic Comedy,Curtis Sittenfeld
